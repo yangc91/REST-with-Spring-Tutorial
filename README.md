@@ -1,5 +1,5 @@
 # REST-with-Spring-Tutorial
-http://www.baeldung.com/rest-with-spring-series/教程的中文翻译
+http://www.baeldung.com/rest-with-spring-series 教程的中文翻译
 
 > 这是在网站查找资料时，无意中发现的一个网站[http://www.baeldung.com](http://www.baeldung.com)，里面有很多Spring的相关教程,
 
